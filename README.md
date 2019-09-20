@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome To My Digital Media Portfolio
 
 You can use the [editor on GitHub](https://github.com/akirachristensen/2020-Digital-Media-Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
